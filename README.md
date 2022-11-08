@@ -1,1 +1,1 @@
-# -Concordium-Pixpel
+# Concordium-Pixpel
